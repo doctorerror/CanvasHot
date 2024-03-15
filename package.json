@@ -1,14 +1,6 @@
 {
   "name": "canvashot-doctorerror",
-<<<<<<< HEAD
-<<<<<<< HEAD
   "version": "2.5.3",
-=======
-  "version": "2.0.0",
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
-=======
-  "version": "2.0.0",
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
   "description": "This project demonstrates a simple animation of fire using JavaScript's Canvas API. It generates a dynamic effect resembling flames rising upwards.",
   "main": "index.js",
   "scripts": {},
@@ -25,59 +17,25 @@
     "chai",
     "oolong",
     "matcha",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "black tea"
-=======
-    "black"
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
-=======
-    "black"
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
   ],
   "author": "doctorerror",
   "license": "Apache-2.0",
   "dependencies": {
     "lodash": "^4.17.21",
     "axios": "^0.21.1",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "tea-bag": "^1.0.0",
     "tea-strainer": "^2.0.0",
     "tea-cup": "^3.0.0",
     "tea-pot": "^1.5.0",
     "tea-leaves": "^2.2.0",
-=======
-=======
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
-    "tea-leaf": "^1.0.0",
-    "tea-cup": "^2.0.0",
-    "tea-strainer": "^1.2.0",
-    "tea-pot": "^3.1.0",
-    "tea-bag": "^2.5.0",
-<<<<<<< HEAD
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
-=======
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
     "tea-spoon": "^1.3.0"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "tea-brewer": "^0.5.0",
     "tea-ceremony": "^1.0.0",
     "tea-sipper": "^2.0.0"
-=======
-    "tea-library": "^1.0.0",
-    "tea-framework": "^2.0.0",
-    "tea-utils": "^1.1.0"
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
-=======
-    "tea-library": "^1.0.0",
-    "tea-framework": "^2.0.0",
-    "tea-utils": "^1.1.0"
->>>>>>> 0822be781db6364faebef9dd7e29e768125fedff
   }
 }
