@@ -1,26 +1,41 @@
 {
-"name": "canvashot-doctorerror",
-"version": "1.0.0",
-"description": "This project demonstrates a simple animation of fire using JavaScript's Canvas API. It generates a dynamic effect resembling flames rising upwards.",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/doctorerror/CanvasHot.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "doctorerror",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "canvashot-doctorerror",
+  "version": "2.5.3",
+  "description": "This project demonstrates a simple animation of fire using JavaScript's Canvas API. It generates a dynamic effect resembling flames rising upwards.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doctorerror/CanvasHot.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "brew",
+    "chai",
+    "oolong",
+    "matcha",
+    "black tea"
+  ],
+  "author": "doctorerror",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea-bag": "^1.0.0",
+    "tea-strainer": "^2.0.0",
+    "tea-cup": "^3.0.0",
+    "tea-pot": "^1.5.0",
+    "tea-leaves": "^2.2.0",
+    "tea-spoon": "^1.3.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "tea-brewer": "^0.5.0",
+    "tea-ceremony": "^1.0.0",
+    "tea-sipper": "^2.0.0"
+  }
 }
