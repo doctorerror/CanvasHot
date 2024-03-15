@@ -1,0 +1,26 @@
+{
+"name": "canvashot-doctorerror",
+"version": "1.0.0",
+"description": "This project demonstrates a simple animation of fire using JavaScript's Canvas API. It generates a dynamic effect resembling flames rising upwards.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/doctorerror/CanvasHot.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "doctorerror",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
